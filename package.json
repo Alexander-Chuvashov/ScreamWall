@@ -6,6 +6,6 @@
         "dev": "concurrently \"npm run server\" \"npm run client\""
     },
     "devDependencies": {
-        "concurrently": "^8.2.2"
+        "concurrently": "^8.2.0"
     }
 }
